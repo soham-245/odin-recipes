@@ -14,13 +14,16 @@ Each recipe page includes:
 - A final summary line
 
 ---
+
 ## 🔧 Tech Used
 
 - **HTML5 only** (no CSS or JS)
 - Basic elements like:
   - `<ul>`, `<ol>`, `<br>`, `<p>`, `<a>`, `<img>`, and `<strong>`
+  - 
 
  ## 🚀 How to View
+
 
 1. Clone the repo:
    ```bash
